@@ -2,7 +2,7 @@
 （ssrshare） ssrshare.com （自用SSR订阅地址： https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com ）
 
 梯子网站：
-（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://yangwangssr.000webhostapp.com ）
+（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://ssr.yangwang.tk ）
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub ）
 
 梯子提供商：
@@ -61,7 +61,7 @@
 
 杂项：
 （DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
-（懒得勤快的博客_全栈开发者_互联网分享精神） https://masuit.com （苏州思杰马克丁都管不了的博客，因运营商问题，博客只能用https访问且没有针对中国移动的线路优化，博主也禁用了境外IP的访问，加速访问需使用中国大陆IP的网络代理，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
+（懒得勤快的博客_全栈开发者_互联网分享精神） https://masuit.com （苏州思杰马克丁都管不了的博客，博主也禁用了境外IP的访问，加速访问需使用中国大陆IP的网络代理，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
 （聪聪博客） congcong0806.github.io （Telegram 知识： https://congcong0806.github.io/2019/04/11/Telegram SS/SSR简介： https://congcong0806.github.io/2018/04/20/SS ）
 （MikuTools - 一个轻量的工具集合） tools.imiku.me
 
