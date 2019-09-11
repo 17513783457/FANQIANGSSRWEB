@@ -15,7 +15,7 @@
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com 中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
 （THE.SSR） blinkload.net
-（ssrcloud） ieplcloud.com 
+（ssrcloud） sssrcloud.com 
 （CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
 （墙洞） dlercloud.com
 （BosLife） ofcourseistillloveyou.org
