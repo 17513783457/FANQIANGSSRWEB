@@ -19,13 +19,17 @@
 （moecloud.asia） moecloud.asia
 （Frozensocks） fzss.org （中国大陆备用网站： fzss.top ）
 （ssrcloud） sssrcloud.com 
+（MiaoSS） msspeeds9.com
 （CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
 （墙洞） dlercloud.com
+（在人间） zairenjian.shop
+（Catchflying） catchflying.cc （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （BosLife） ofcourseistillloveyou.org
 （getfree.cloud） getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
 （免费EDU学术引擎） xs.wangzicloud.com
 （Boom.Cloud） boomsso.com
 （酸奶） 999ssr.xyz
+（SWCLOUD） swrelay.net
 （次元链接） cylink.ga
 （MENGDI-Cloud） proxy.insthub.com
 （ssr云加速） ohssr.icu
