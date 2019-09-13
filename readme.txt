@@ -38,7 +38,7 @@
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
 （ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码： 4D110788DCA8）
-（梯梯VPN） tt521.vip （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
+（逗了个豆豆豆） abcc.live （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码： 580FAF6492F4）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
