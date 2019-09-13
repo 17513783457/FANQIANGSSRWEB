@@ -16,6 +16,8 @@
 （西部云） ssrvpn.cn 
 （圆梦云加速） 67kcp.ooo （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （Blinkload） ssr.to
+（moecloud.asia） moecloud.asia
+（Frozensocks） fzss.org （中国大陆备用网站： fzss.top ）
 （ssrcloud） sssrcloud.com 
 （CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
 （墙洞） dlercloud.com
