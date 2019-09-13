@@ -14,6 +14,7 @@
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com 中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
+（圆梦云加速） 67kcp.ooo （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （THE.SSR） blinkload.net
 （ssrcloud） sssrcloud.com 
 （CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
@@ -32,13 +33,13 @@
 （未知Unknown国际烹饪中心） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
-（青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome） （注册时可能需要邀请码，邀请码： tlQg）
+（青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ） （注册时可能需要邀请码，邀请码： tlQg）
 （ADSL.cloud） adsl.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
-（SSRHUB） myssrhub.com （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
+（SSRHUB） myssrhub.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
 （红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
 （ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码： 4D110788DCA8）
-（逗了个豆豆豆） abcc.live （需通过Google_Chrome浏览器访问，下载地址： https://www.google.cn/chrome）
+（逗了个豆豆豆） abcc.live （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码： 580FAF6492F4）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
