@@ -14,6 +14,7 @@
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
 （喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com 中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
+（Doge Kitty） dlkconnect.com
 （圆梦云加速） 67kcp.ooo （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （Blinkload） ssr.to
 （moecloud.asia） moecloud.asia
