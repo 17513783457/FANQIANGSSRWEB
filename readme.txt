@@ -1,5 +1,5 @@
 梯子论坛：
-（ssrshare） ssrshare.com （自用SSR订阅地址： https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com ）
+（ssrshare） ssrshare.com 
 
 梯子网站：
 （好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://ssr.yangwang.tk ）
@@ -38,7 +38,7 @@
 （CTCloud） ctcloud.win
 （潮汐） qaz.moe
 （69SSR） s77a.com
-（未知Unknown国际烹饪中心） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
+（未知Unknown） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
 （青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ） （注册时可能需要邀请码，邀请码： tlQg）
