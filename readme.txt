@@ -78,7 +78,8 @@
 GITHUB传送门： https://github.com/FANminiworld/FANQIANGSSRWEB
 GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
 
-邀请码过期，网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
+网址失效，开个issue呼我一下就行(⋈◍＞◡＜◍)
 
 Telegram联系我 （ https://t.me/FANminiworld ）
 
+关于邀请码：邀请码属于一次性信息，本仓库的邀请码仅为示例，不保证可以使用，如有需要，可在issuse或Telegram上向我申请
