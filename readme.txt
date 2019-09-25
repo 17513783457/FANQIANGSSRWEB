@@ -2,7 +2,7 @@
 （ssrshare） ssrshare.com 
 
 梯子网站：
-（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://ssr.yangwang.tk ）
+（好棒的羊毛站） wohaobang.cn （自用SSR订阅地址： https://haobang.yangwang.workers.dev ）
 （t.me/SSRSUB） t.me/SSRSUB （自用SSR订阅地址： https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub ）
 
 梯子提供商：
