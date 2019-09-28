@@ -34,7 +34,8 @@
 （SWCLOUD） swrelay.net
 （次元链接） cylink.ga
 （MENGDI-Cloud） proxy.insthub.com
-（ssr云加速） ohssr.icu
+（ssr云加速） ohssr.shop （中国大陆备用网站： https://github.com/xeeoon/ohssr ）
+（Cloudoys） cloudoys.com （不支持人民币）
 （CTCloud） ctcloud.win
 （潮汐） qaz.moe
 （69SSR） s77a.com
