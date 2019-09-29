@@ -26,6 +26,8 @@
 （墙洞） dlercloud.com
 （免费机场VIP） mfjc.vip
 （在人间） zairenjian.shop
+（KuLi云） klyunddns.site
+（极简 VPN - 极速享受） jssr.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （Catchflying） catchflying.cc （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （BosLife） ofcourseistillloveyou.org
 （getfree.cloud） getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
