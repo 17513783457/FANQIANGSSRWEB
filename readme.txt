@@ -18,6 +18,7 @@
 （2云） 2yun.pw 
 （VI云） viyun.club （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （圆梦云加速） 67kcp.ooo （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
+（蘑菇云） mgssr.xyz （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （Blinkload） ssr.to
 （moecloud.asia） moecloud.asia
 （Frozensocks） fzss.org （中国大陆备用网站： fzss.top ）
