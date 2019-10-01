@@ -14,7 +14,7 @@
 （墙裂） 墙裂.com （中国大陆备用网站： https://www.ebay.com/usr/qianglievpn  https://github.com/QiangLie/domain ）
 （JIYOU - CLOUD） portal.caipin.pro
 （海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
-（喵帕斯） 喵帕斯.com （网站编码地址： xn--i2ru8q2qg.com 中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
+（喵帕斯） 喵帕斯.com （中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
 （西部云） ssrvpn.cn 
 （Doge Kitty） dlkconnect.com
 （2云） 2yun.pw
