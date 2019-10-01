@@ -92,3 +92,4 @@ GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
 Telegram联系我 （ https://t.me/FANminiworld ）
 
 关于邀请码：邀请码属于一次性信息，本仓库的邀请码仅为示例，不保证可以使用，如有需要，可在issuse或Telegram上向我申请
+仓库主Telegram不经常上，如需邀请码，请联系毒药（群聊： https://t.me/DuyaoSS_Group 私聊Bot： https://t.me/duyao_bot ）
