@@ -9,7 +9,7 @@
 （rixcloud） rixcloud.com （中国大陆备用网站： onerelay.io ，管理门户网站： xoton.io） （购买Pass Scalable Subscription - Orichalcum、Pass Scalable Subscription - Mithril和Access Subscription - Team（如果可能）产品需要验证商业身份（企业邮箱/工牌/营业执照/股东证明文件/顶级域名等），然后人工审核，请仔细查看商业认证要求条款。商业认证基线要求： https://rixcloudkb.io/business-setup-baseline ，可接受的域名以及企业邮箱后缀（rixCloud 只接受其中的 ICANN Domain 部分，而不接受 PRIVATE Domain 部分）： https://publicsuffix.org/list/public_suffix_list.dat） 
 （ExpressVPN） expressvpn.com （需使用自有客户端） （不支持人民币）
 （NordVPN） nordvpn.com （需使用自有客户端） （不支持人民币）
-（Just My Socks） justmysocks.net （中国大陆备用网站： justmysocks1.net ） （此网站仅提供ss代理，不支持ssr代理） （不支持人民币）
+（Just My Socks） justmysocks.net （中国大陆备用网站： justmysocks1.net ） （不支持人民币）
 （shadowsocks） shadowsocks.se （不支持人民币）
 （哆啦A梦） dlam.gq
 （srsrsrs.xyz） hi.srsrsrs.xyz
