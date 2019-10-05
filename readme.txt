@@ -16,6 +16,7 @@
 （酸酸） 酸酸.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （West World VPN - 西部世界VPN） xibsji.website
 （cccloud） cccloud.me
+（FoxCloud） foxcloud.today
 （飞龙加速） fljsr.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （拓普网络） massr.top
 （通用网络游戏加速器） glados001.com
