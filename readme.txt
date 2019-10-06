@@ -19,7 +19,7 @@
 （FoxCloud） foxcloud.today
 （飞龙加速） fljsr.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （拓普网络） massr.top
-（通用网络游戏加速器） glados001.com
+（通用网络游戏加速器） glados.network （中国大陆备用网站： https://github.com/glados-network/GLaDOS ） 
 （LING–JUN） sssr.xyz
 （BACK TO MAINLAND） backtomainland.com （此网站仅提供国内回国节点，无法连接国外服务，可以BT下载版权内容、数据流量免流服务（自定义混淆协议）以及游戏加速服务（国内服务器加速））
 （墙裂） 墙裂.com （中国大陆备用网站： https://www.ebay.com/usr/qianglievpn  https://github.com/QiangLie/domain ）
