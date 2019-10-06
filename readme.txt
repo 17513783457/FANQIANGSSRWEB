@@ -89,7 +89,7 @@
 （Sakura Cloud） 樱云.net （网站编码地址： yingyun.me）
 
 杂项：
-（DuyaoSS-毒药机场简介） duyaoss.com （只是一个境外服务器（用来搭私人专线）与梯子的分享网站，GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
+（DuyaoSS-毒药机场简介） duyaoss.com （GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
 （懒得勤快的博客_全栈开发者_互联网分享精神） https://masuit.com （苏州思杰马克丁都管不了的博客，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
 （聪聪博客） congcong0806.github.io （Telegram 知识： https://congcong0806.github.io/2019/04/11/Telegram SS/SSR简介： https://congcong0806.github.io/2018/04/20/SS ）
 （MikuTools - 一个轻量的工具集合） tool.imiku.me
