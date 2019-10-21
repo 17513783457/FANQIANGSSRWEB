@@ -12,6 +12,7 @@
 （Just My Socks） justmysocks.net （中国大陆备用网站： justmysocks1.net ） （不支持人民币）
 （shadowsocks） shadowsocks.se （不支持人民币）
 （哆啦A梦） dlam.gq
+（阿狸云加速） ssvip.cf
 （srsrsrs.xyz） hi.srsrsrs.xyz
 （酸酸） 酸酸.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （West World VPN - 西部世界VPN） xibsji.website
