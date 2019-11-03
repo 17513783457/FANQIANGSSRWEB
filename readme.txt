@@ -11,8 +11,11 @@
 （NordVPN） nordvpn.com （需使用自有客户端） （不支持人民币）
 （Just My Socks） justmysocks.net （中国大陆备用网站： justmysocks1.net ） （不支持人民币）
 （shadowsocks） shadowsocks.se （不支持人民币）
+（SoCloud） socloud.site
 （喵呜喵云加速） miao5miao.co
 （哆啦A梦） dlam.gq
+（CuteCloud） cutecloud.space
+（艾尔云） ting3.cn
 （阿狸云加速） ssvip.cf
 （srsrsrs.xyz） hi.srsrsrs.xyz
 （酸酸） 酸酸.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
