@@ -16,6 +16,12 @@
 （哆啦A梦） dlam.gq
 （CuteCloud） cutecloud.space
 （艾尔云） ting3.cn
+（MIX） erssr.com
+（多路加速器） duolu.cc
+（AJScloud） ajscloud.xyz
+（AcUcloud） acl.monster （中国大陆备用网站： socloudo.ml ）
+（星梦数据） hualuows.xyz
+（就是爱自由） 94ish.men （中国大陆备用网站： 94izy.uk.to ） （注册时可能需要邀请码） 
 （阿狸云加速） ssvip.cf
 （srsrsrs.xyz） hi.srsrsrs.xyz
 （酸酸） 酸酸.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
@@ -29,8 +35,8 @@
 （BACK TO MAINLAND） backtomainland.com （此网站仅提供国内回国节点，无法连接国外服务，可以BT下载版权内容、数据流量免流服务（自定义混淆协议）以及游戏加速服务（国内服务器加速））
 （墙裂） 墙裂.com （中国大陆备用网站： https://www.ebay.com/usr/qianglievpn  https://github.com/QiangLie/domain ）
 （JIYOU - CLOUD） portal.caipin.pro
-（海豚湾） 海豚湾.com （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得）
-（喵帕斯） 喵帕斯.com （中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码，邀请码： CrcMAc9kVmsXWtUJpwIFzo4UwCrf874N） 
+（海豚湾） 海豚湾.com （注册时可能需要邀请码）
+（喵帕斯） 喵帕斯.com （中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码）
 （西部云） ssrvpn.cn 
 （Doge Kitty） dlkconnect.com
 （2云） 2yun.pw
@@ -43,7 +49,7 @@
 （Frozensocks） fzss.org （中国大陆备用网站： fzss.top ）
 （ssrcloud） china-internet-exchange.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （MiaoSS） msspeeds9.com
-（CordCloud） cordcloud.cc （注册时可能需要邀请码，邀请码： whtJmcrdtnVQXzy7wrx9ycayamx0jlr9）
+（CordCloud） cordcloud.cc （注册时可能需要邀请码）
 （墙洞） dlercloud.com
 （免费机场VIP） mfjc.vip
 （在人间） zairenjian.shop
@@ -51,39 +57,39 @@
 （极简 VPN - 极速享受） jssr.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （Catchflying） catchflying.cc （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （BosLife） ofcourseistillloveyou.org
-（getfree.cloud） getfree.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框旁公共邀请码按键按下即可获得（GetfreeCloud））
+（getfree.cloud） getfree.cloud （注册时可能需要邀请码）
 （免费EDU学术引擎） xs.wangzicloud.com
 （Boom.Cloud） boomsso.com
 （酸奶） 999ssr.xyz
 （SWCLOUD） swrelay.net
 （次元链接） cylink.ga
 （MENGDI-Cloud） proxy.insthub.com
-（ssr云加速） ohssr.shop （中国大陆备用网站： https://github.com/xeeoon/ohssr ）
+（ssr云加速） ohssr.fun （中国大陆备用网站： https://github.com/xeeoon/ohssr ）
 （Cloudoys） cloudoys.com （不支持人民币）
 （CTCloud） ctcloud.win
 （潮汐） qaz.moe
 （69SSR） s77a.com
-（未知Unknown） ssocksage.com （注册时可能需要邀请码，邀请码： 2dJcij764vlv1jR5Mgh7YATIBhcLAb5b）
+（未知Unknown） ssocksage.com （注册时可能需要邀请码）
 （乐享云服务） wlyuji.online
 （云图小镇） yuntu.moe
-（青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ） （注册时可能需要邀请码，邀请码： tlQg）
-（ADSL.cloud） adsl.cloud （注册时可能需要邀请码，邀请码： 邀请码输入框内点击即可获得）
+（青青草原蕉太郎） teemojun.top （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ） （注册时可能需要邀请码）
+（ADSL.cloud） adsl.cloud （注册时可能需要邀请码）
 （SSRHUB） myssrhub.com （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
-（心阶） xinjiecloud.com （注册时可能需要邀请码，邀请码： enshanluntan6663dWZVYGcllK3FTmDggEaSxdXGmzhDE3r）
-（红杏） redyun.cc （注册时可能需要邀请码，邀请码： isa）
-（ssoss） srsrsr.xyz （注册时可能需要邀请码，邀请码： 4D110788DCA8）
+（心阶） xinjiecloud.com （注册时可能需要邀请码）
+（红杏） redyun.cc （注册时可能需要邀请码）
+（ssoss） srsrsr.xyz （注册时可能需要邀请码）
 （逗了个豆豆豆） abcc.live （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
-（X-AIR机场） x-air.icu （注册时可能需要邀请码，邀请码： 580FAF6492F4）
+（X-AIR机场） x-air.icu （注册时可能需要邀请码）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
-（NGCSS） china.tg
+（NGCSS） china.tg （绝对国内访问）
 （Vetoo） dally.me
-（srssrss.top） dossr.xyz （注册时可能需要邀请码，邀请码： vv3h）
+（srssrss.top） dossr.xyz （注册时可能需要邀请码）
 （928NET） 928net.org
-（CONAIR） conair.me （注册时可能需要邀请码，邀请码： pyRq）
+（CONAIR） conair.me （注册时可能需要邀请码）
 （Phantom） phantom-n.com
 （一元机场ssr） onessr.me
-（IPLC - 极致专线） iplc.pw （注册时可能需要邀请码，邀请码： PL8s）
+（IPLC - 极致专线） iplc.vip （注册时可能需要邀请码）
 （蓝岸） 蓝岸.com 
 （OTTO） otto.xyz 
 （傲世星云） asnebula.cf
@@ -108,5 +114,5 @@ GITEE传送门： https://gitee.com/fanminiworld/FANQIANGSSRWEB
 
 Telegram联系我 （ https://t.me/FANminiworld ）
 
-关于邀请码：邀请码属于一次性信息，本仓库的邀请码仅为示例，不保证可以使用，如有需要，可在issuse或Telegram上向我申请
+关于邀请码：邀请码属于一次性信息，如有需要，可在issuse或Telegram上向我申请
 仓库主Telegram不经常上，如需邀请码，请联系毒药（群聊： https://t.me/DuyaoSS_Group 私聊Bot： https://t.me/duyao_bot ）
