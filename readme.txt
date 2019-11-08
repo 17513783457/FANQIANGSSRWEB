@@ -39,7 +39,7 @@
 （喵帕斯） 喵帕斯.com （中国大陆备用网站： npsboost.com ） （注册时可能需要邀请码）
 （西部云） ssrvpn.cn 
 （Doge Kitty） dlkconnect.com
-（2云） 2yun.pw
+（2云） ssssr.speace
 （sssru.pw） sssru.pw
 （VI云） viyun.club （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
 （圆梦云加速） 67kcp.ooo （需通过Google_Chrome浏览器访问，下载地址： https://chrome-dl.com ）
