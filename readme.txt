@@ -103,7 +103,7 @@
 （DuyaoSS-毒药机场简介） duyaoss.com （GitHub地址： https://github.com/DuyaoSS/SSR/issues/1 ）
 （懒得勤快的博客_全栈开发者_互联网分享精神） https://masuit.com （苏州思杰马克丁都管不了的博客，博主GitHub地址： https://github.com/ldqk  稀缺资源统一下载地址页： https://masuit.com/misc/5  ）
 （聪聪博客） congcong0806.github.io （Telegram 知识： https://congcong0806.github.io/2019/04/11/Telegram SS/SSR简介： https://congcong0806.github.io/2018/04/20/SS ）
-（MikuTools - 一个轻量的工具集合） tool.imiku.me
+（MikuTools - 一个轻量的工具集合） tool.imiku.ac
 （Project V · Project V 官方网站） v2ray.com （v2ray代理协议的项目网站）
 （TG代理） t.me/socks5list （里面有优秀机场广告）
 
