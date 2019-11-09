@@ -82,7 +82,7 @@
 （X-AIR机场） x-air.icu （注册时可能需要邀请码）
 （Nexitally） nexitcore.com 
 （夜无界） yewujie.xyz
-（NGCSS） china.tg （绝对国内访问）
+（NGCSS） china.tg （绝对国内访问） （邀请链接： https://ji-ae.pw/waf/mIT31）
 （Vetoo） dally.me
 （srssrss.top） dossr.xyz （注册时可能需要邀请码）
 （928NET） 928net.org
